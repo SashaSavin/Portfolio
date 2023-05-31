@@ -10,9 +10,7 @@ export const Header = () => {
           <Link to="https://t.me/funnymagnett">Свяжитесь со мной</Link>
         </button>
       </div>
-      git remote set-url origin https://
-      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
-      @github.com/SashaSavin/portfolio.git
+
       <nav>
         <ul className="flex space-x-4">
           <li className="hover:opacity-50 cursor-pointer">
