@@ -121,6 +121,7 @@ export const Portfolio = () => {
                 height: "150px",
               }}
             ></div>
+            <small className="text-gray-500">{project.category}</small>
             <h3 className="font-bold mb-2 text-2xl">{project.title}</h3>
             <p className="text-sm">{project.description}</p>
             <Link to={project.link} className="text-blue-500 hover:underline">
